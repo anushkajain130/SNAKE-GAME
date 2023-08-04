@@ -1,2 +1,2 @@
 # myproject
-this is my attempt to make the snake game.
+these are all the project that I am making while learning python language
