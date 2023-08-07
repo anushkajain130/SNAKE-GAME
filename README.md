@@ -1,2 +1,2 @@
-# myproject
-these are all the project that I am making while learning python language
+# SNAKE-GAME
+This is my code for the snake game
